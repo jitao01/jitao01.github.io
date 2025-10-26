@@ -9,13 +9,13 @@ redirect_from:
 
 I'm Tao JI, current a PhD student in UCL's [Centre for Data Intensive Science](https://www.ucl.ac.uk/data-intensive-science-industry/).
 
-I’m from mainland China and grew up in a small province in the central part of the country. In 2023, I earned a B.S. in Astronomy from Peking University, followed by an M.Phil. in Physics from The University of Hong Kong in 2025.  
+I’m from Mainland China and grew up in a small province in the central part of the country. In 2023, I earned a B.S. in Astronomy from Peking University, followed by an M.Phil. in Physics from The University of Hong Kong in 2025.  
 
 Currently my research focuses on star and planet formation. I am hornored to join the [ALMA DMOST](https://alma-dmost.github.io/index.html) Large Program, which studies the structure of the dust and gas in disks around young Very Low Mass Stars, the most common type of star in our galaxy. 
 
 Astronomy and Astrophysics
 ======
-I have broad interest in astronomy and astrophysics, which leads to my mixed background.
+I have broad interest in astronomy and astrophysics. I have been studying accretion disk in different scales with different methods. I love playing with data. I have some experience of observation, mainly in data analysis with photometry and spectroscopy of protoplanetary disk. I also have some experience in performing GRMHD simulations of Black Hole super-Eddington accretion. In my PhD, I am expected to explore more about AI&ML applications in astrophysics!
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
