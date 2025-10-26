@@ -9,7 +9,7 @@ redirect_from:
 
 I'm Tao JI, current a PhD student in UCL's [Centre for Data Intensive Science](https://www.ucl.ac.uk/data-intensive-science-industry/).
 
-I am from China. In 2023 I received my Bachelor of Science degree in Astronomy from Peking University. Then I got my Master of Philosophy Degree in Physics from The University of Hong Kong in 2025. 
+I am from Mainland China. In 2023 I received my Bachelor of Science degree in Astronomy from Peking University. Then I got my Master of Philosophy degree in Physics from The University of Hong Kong in 2025. 
 
 Currently my research focuses on star and planet formation. I feel hornored to join [ALMA DMOST](https://alma-dmost.github.io/index.html) Large Program, dedicated to studying the structure of the dust and gas in disks around young Very Low Mass Stars, the most common type of star in our galaxy. 
 
