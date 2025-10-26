@@ -15,12 +15,14 @@ Currently my research focuses on star and planet formation. I am hornored to joi
 
 Astronomy and Astrophysics
 ======
-I’m broadly interested in astronomy and astrophysics, especially accretion. I studied accretion disks across scales using both observations and simulations. I enjoy playing with data and have experience analyzing photometric and spectroscopic observations of protoplanetary disks. I’ve also performed GRMHD simulations of super-Eddington accretion onto black holes. In my PhD, I plan to expand the use of AI and ML in astrophysics.
+I’m broadly interested in astronomy and astrophysics, especially accretion. I studied accretion disks across scales using both observations and simulations. I enjoy playing with data and have experience analyzing photometric and spectroscopic observations of protoplanetary disks. I’ve also performed GRMHD simulations of super-Eddington accretion onto black holes. In my PhD, I plan to expand the use of AI and ML in astrophysics since now we are in a universe of data.
 
-I’ve worked across several topics, but my goal has always been to deepen our understanding of the underlying physics. I believe early-career researchers should explore widely to find what excites them and aligns with their strengths, and I’m grateful to my supervisors for encouraging that exploration.
+I’ve worked across several topics, but my goal has always been to deepen our understanding of the underlying physics. I believe early-career researchers should explore widely to find what excites them and aligns with their strengths, and I’m grateful to my supervisors for encouraging that exploration.  
 
-Getting started
+Research Career
 ======
+I highly appreciate the research opportunities provided by my supervisors. I also understand nowadays it's becoming increasingly unstable for people aiming to pursue 
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
