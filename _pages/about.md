@@ -15,10 +15,11 @@ Currently my research focuses on star and planet formation. I am hornored to joi
 
 Astronomy and Astrophysics
 ======
-I’m broadly interested in astronomy and astrophysics, especially accretion. I studied accretion disks across scales using both observations and simulations. I enjoy playing with data and have experience analyzing photometric and spectroscopic observations of protoplanetary disks. I’ve also performed GRMHD simulations of super-Eddington accretion onto black holes. In my PhD, I plan to expand the use of AI and ML in astrophysics since now we are in a universe of data.
+I’m broadly interested in astronomy and astrophysics, especially accretion. I studied accretion disks across scales using both observations and simulations. I enjoy playing with data and have experience analyzing photometric and spectroscopic observations of protoplanetary disks. I’ve also performed GRMHD simulations of super-Eddington accretion onto black holes. In my PhD, I plan to expand the use of AI and ML in astrophysics since we now live in a universe of data.
 
-I’ve worked across several topics, but my goal has always been to deepen our understanding of the underlying physics. I believe early-career researchers should explore widely to find what excites them and aligns with their strengths, and I’m grateful to my supervisors for encouraging that exploration.  
+I’ve worked across several topics, but my goal has always been to deepen our understanding of the underlying physics. I believe early-career researchers should explore widely to find what excites them most and aligns with their strengths, and I’m grateful to my supervisors for encouraging that exploration.  
 
+This page is still under construction—more details coming soon. Feel free to reach out if you’d like to connect or have suggestions. Thanks!
 
 
 
