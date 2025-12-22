@@ -21,4 +21,4 @@ I’ve worked on several very different topics, but my goal has always been to d
 
 This page is still under construction—more details coming soon. Feel free to reach out if you’d like to connect or have suggestions. Thanks!
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=n&d=FzFAha3JB9jZmhTME_ljrFt2dWkP7wUdA0sP24egU48'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=FzFAha3JB9jZmhTME_ljrFt2dWkP7wUdA0sP24egU48'></script>
