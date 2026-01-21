@@ -11,7 +11,7 @@ Hello, I'm Tao JI, currently a PhD student in UCL's [Centre for Data Intensive S
 
 I’m from Mainland China and grew up in a small province in the central part of the country. In 2023, I earned a B.S. in Astronomy from [Peking University](https://astro.pku.edu.cn/), followed by an M.Phil. in Physics from [The University of Hong Kong](https://www.physics.hku.hk/) in 2025.  
 
-Currently my research focuses on star and planet formation. I am hornored to join the [ALMA DMOST](https://alma-dmost.github.io/index.html) Large Program, which studies the structure of the dust and gas in disks around young Very Low Mass Stars, the most common type of star in our galaxy. 
+Currently my research focuses on star and planet formation. I am honored to join the [ALMA DMOST](https://alma-dmost.github.io/index.html) Large Program, which studies the structure of the dust and gas in disks around young Very Low Mass Stars, the most common type of star in our galaxy. 
 
 Astronomy and Astrophysics
 ======
